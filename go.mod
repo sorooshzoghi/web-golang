@@ -1,3 +1,3 @@
-module github.com/sorooshzoghi/golang-web
+module github.com/sorooshzoghi/web-golang
 
 go 1.20
